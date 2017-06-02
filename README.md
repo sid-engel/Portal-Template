@@ -1,3 +1,10 @@
 # Portal-Template
-Just a basic, and easy to use portal template.
+An incredibly basic portal page. Perfect for anyone, with minimal html know-how.
 
+Demo: https://www.sidengel.com/dev/bs-portal/index.html
+
+I Plan On:
+Adding a server tracker(online with...).
+Adding more customization.
+
+No copyright, or anything. Do as you want with it.
