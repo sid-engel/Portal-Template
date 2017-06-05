@@ -8,3 +8,7 @@ Adding a server tracker(online with...).
 Adding more customization.
 
 No copyright, or anything. Do as you want with it.
+
+## Credits
+Server Status - https://github.com/leonardosnt/mc-player-counter
+
