@@ -49,6 +49,12 @@ div.image-menus:hover {
   transform: scale(1.1);
 }
 
+p {
+  color: white;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
 
 /* Mobile Friendly, Adjustment For Mobile */
 @media (max-width:991px) {
